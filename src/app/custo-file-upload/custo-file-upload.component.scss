@@ -1,0 +1,38 @@
+.dragarea {
+  font-size: 1.1rem;
+  border: 1px solid;
+  padding: 1.5rem;
+  border-style: dashed;
+  color: brown ;
+  a{
+    text-decoration:none;
+    color: black;
+  }
+}
+
+.droparea {
+  font-size: 1.5rem;
+  border: 2px solid;
+  padding: 1.5rem;
+  background-color: aliceblue;
+  color: brown ;
+  a{
+    text-decoration:none;
+    color: black;
+  }
+}
+
+.error {
+  margin-top: 5px;
+  color: rgb(241, 9, 9);
+}
+
+
+.font-bold{
+  font-weight: bold;
+}
+
+.button-wrapper{
+  display: flex;
+  justify-content: space-evenly;
+}
